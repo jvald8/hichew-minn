@@ -1,1 +1,2 @@
-# hichew-minn
+#### /minn page for hi-chew.com
+
